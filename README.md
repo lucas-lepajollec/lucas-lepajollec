@@ -24,7 +24,7 @@ Mon véritable langage, c'est **l'architecture système et le prompting**. Mais 
 
 ### 📫 Me contacter
 
-* **Email:** lepajolleclucas@gmail.com
+* **Email:** lucaslepajollecweb@gmail.com
 
 ---
 ⭐️ *Citation favorite : "Le meilleur code est celui qu'on n'a pas besoin d'écrire soi-même."*
