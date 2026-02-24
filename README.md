@@ -17,7 +17,7 @@ Mon véritable langage, c'est **l'architecture système et le prompting**. Mais 
 
 ### 🚀 Projets Phares
 
-* 🧰 **[SwissKnife](https://github.com/lucas-lepajollec/SwissKnife)** *(En cours)*
+* 🧰 **[SwissKnife](https://github.com/lucas-lepajollec/SwissKnife)**
     Un convertisseur de fichiers universel (Vidéo, Audio, Image) ultra-rapide et respectueux de la vie privée. 
     * **Particularité :** 100% de la conversion se fait localement dans le navigateur grâce à WebAssembly (`FFmpeg.wasm`). Aucun cloud, aucune fuite de données.
     * **Déploiement :** Prêt pour le self-hosting via Docker.
