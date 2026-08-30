@@ -1,30 +1,27 @@
-# Salut, je suis Lucas ! 👋
+# Lucas Le Pajollec
 
-🚀 **AI-Assisted Developer & Architecte Local-First**
+**Product & System Architect** building self-hosted and local-first tools from product strategy and UX to software, infrastructure, documentation, and launch.
 
-Je suis un passionné de technologies qui transforme des idées complexes en applications fonctionnelles. Mon approche est moderne : je n'écris pas chaque ligne de code à la main, j'agis comme un **Chef d'Orchestre (Prompt Engineer)**. 
+I turn product questions into complete, usable systems. My work spans product framing, interaction and visual direction, frontend and backend engineering, self-hosted infrastructure, documentation, deployment, and public presentation.
 
-J'utilise l'Intelligence Artificielle avancée (Agent-Driven Development) pour architecturer, coder et déployer des outils performants. Mon objectif ? Créer des logiciels respectueux de la vie privée, hébergeables chez soi, et utiles au quotidien.
+## Selected products
 
-### 🛠️ Ma boîte à outils & Compétences
+| Product | What it does | Explore |
+| --- | --- | --- |
+| **NasDash** | A coherent cockpit for homelab services, infrastructure, Docker, telemetry, and network visibility. | [Source](https://github.com/lucas-lepajollec/nasdash) · [Website](https://nasdash.lucas-homelab.fr) · [Demo](https://demo.nasdash.lucas-homelab.fr) · [Docs](https://docs.nasdash.lucas-homelab.fr) |
+| **VidArch** | Turns online video discovery into a permanent, organized local library. | [Source](https://github.com/lucas-lepajollec/vidarch) · [Website](https://vidarch.lucas-homelab.fr) · [Demo](https://demo.vidarch.lucas-homelab.fr) · [Docs](https://docs.vidarch.lucas-homelab.fr) |
+| **TraDoc** | A resumable, provider-controlled workflow for translating long documents while preserving structure and terminology. | [Source](https://github.com/lucas-lepajollec/tradoc) · [Website](https://tradoc.lucas-homelab.fr) · [Demo](https://demo.tradoc.lucas-homelab.fr) · [Docs](https://docs.tradoc.lucas-homelab.fr) |
+| **SwissKnife** | Converts images, audio, and video locally in the browser without uploading source files to a conversion service. | [Source](https://github.com/lucas-lepajollec/SwissKnife) · [Website](https://swissknife.lucas-homelab.fr) · [Demo](https://demo.swissknife.lucas-homelab.fr) · [Docs](https://docs.swissknife.lucas-homelab.fr) |
+| **AstroGuide** | Makes astronomical objects and scale approachable through interactive 2D, 3D, and comparison views. | [Source](https://github.com/lucas-lepajollec/AstroGuide) · [Website](https://astroguide.lucas-homelab.fr) · [Demo](https://demo.astroguide.lucas-homelab.fr) · [Docs](https://docs.astroguide.lucas-homelab.fr) |
 
-Mon véritable langage, c'est **l'architecture système et le prompting**. Mais je sais aussi mettre les mains dans le moteur quand il le faut :
+## How I work
 
-* 🧠 **AI & Workflow :** Prompt Engineering avancé, Cursor / Antigravity, Agentic Workflows
-* 🐳 **Infrastructure & Déploiement :** Docker, Docker Compose, Self-hosting (NAS)
-* 💻 **Bases Techniques :** Python, HTML, CSS, Scripts Bash
-* 🏗️ **Technologies maîtrisées (via IA) :** Next.js, React, WebAssembly (WASM), Tailwind CSS
+- Product strategy, scope, UX, interaction, and visual identity
+- Full-stack web applications and local-first experiences
+- Docker, self-hosting, NAS infrastructure, and operational recovery
+- Documentation, demos, deployment, and open-source presentation
+- AI-assisted workflows used as part of the toolchain, not as a substitute for product ownership
 
-### 🚀 Projets Phares
+## More
 
-* 🧰 **[SwissKnife](https://github.com/lucas-lepajollec/SwissKnife)**
-    Un convertisseur de fichiers universel (Vidéo, Audio, Image) ultra-rapide et respectueux de la vie privée. 
-    * **Particularité :** 100% de la conversion se fait localement dans le navigateur grâce à WebAssembly (`FFmpeg.wasm`). Aucun cloud, aucune fuite de données.
-    * **Déploiement :** Prêt pour le self-hosting via Docker.
-
-### 📫 Me contacter
-
-* **Email:** lucaslepajollecweb@gmail.com
-
----
-⭐️ *Citation favorite : "Le meilleur code est celui qu'on n'a pas besoin d'écrire soi-même."*
+Selected work, creative history, and contact: [lucaslepajollec.com](https://lucaslepajollec.com/)
